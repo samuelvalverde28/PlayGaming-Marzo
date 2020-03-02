@@ -40,11 +40,5 @@ En la configuracion de los juegos tenemos una tabla con los datos y tres princip
 Tambien podemos ver en que plataformas estan los juegos y las imagenes del carousel.
 <img src="https://github.com/samuelvalverde28/PlayGaming-Marzo/blob/master/Capturas%20playgaming%20marzo/configJuegos3.PNG" >
 
----
-
-
-
-
-
-
-
+Dentro de la vista de la configuracion de las imagenes de cada juego, podemos ver unos tarjetas que podemos eliminar y un boton apra volver atras y añadir una imagen.
+<img src="https://github.com/samuelvalverde28/PlayGaming-Marzo/blob/master/Capturas%20playgaming%20marzo/configImagenes.PNG" >
