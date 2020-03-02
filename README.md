@@ -1,4 +1,4 @@
-# PlayGaming-Marzo
+# PlayGaming
 
 Descripcion: Playgaming es un catalogo de juegos en el que prodras seleccionar los juegos que tu desees de una lista y podras añadirlo a tu catalogo en el cual podras catalogarlo en 4 modos jugando, completado, espera, dejado. En todo momento podras añadir y eliminar. Tambien tenemo la parte del administrador para manejar los usuarios y los juegos que hay.
 
@@ -17,7 +17,9 @@ Si nos logeasemos como un cliente tenemos la vista de inicio en la que nos parec
 
 A continuación tenemos la vista de 'Todos los juegos' en la que nos aparecera unos desplegables con los juegos, a la izquierda un boton para añadir o quitar de tu catalogo y abajo la paginación. Podemos observar que tambien esta un buscador para que se haga mas ameno la busqueda.
 <img src="https://github.com/samuelvalverde28/PlayGaming-Marzo/blob/master/Capturas%20playgaming%20marzo/all.PNG" >
----
+
+Si le das a cualquier juego encima se nos abrira el desplegable en el cual veremos el titulo, fecha de lanzamiento, nota y nota maxima dada por la comunidad, las plataformas en la que está, un carousel y un clip.
+<img src="https://github.com/samuelvalverde28/PlayGaming-Marzo/blob/master/Capturas%20playgaming%20marzo/desplegable.PNG" >
 
 En la vista de Catalogo tenemos los juegos que hemos añadido, por defecto se nos pondran en el estado de jugando, al rededor de las iamgenes tienen un borde diciendo el estado en el que están. Despues tenemos dos botonos el de eliminar de nuestro catalogo y el modificar el estado del juego.
 Tenemos arriba las diferentes estados, es un filtro que nos saldra solo los juegos del estado que hayamos seleccionado, por defecto cuando le damos a catalogo se nos va a todos. 
