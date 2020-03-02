@@ -1,6 +1,6 @@
 # PlayGaming
 
-Notación: no he podido subirte los archivos porque se pasaban del maximo por lo tanto lo he subido al drive aqui te dejo un enlace:
+Notación: no he podido subirte los archivos porque se pasaban del maximo por lo tanto lo he subido al drive aqui te dejo un enlace, las unicas carpetas que no te he subido han sido vendor y node_modules:
 https://drive.google.com/file/d/1jVKD69I46nkKK9e8Jadlg02vVGwTAmsR/view?usp=sharing
 
 Descripcion: Playgaming es un catalogo de juegos en el que prodras seleccionar los juegos que tu desees de una lista y podras añadirlo a tu catalogo en el cual podras catalogarlo en 4 modos jugando, completado, espera, dejado. En todo momento podras añadir y eliminar. Tambien tenemo la parte del administrador para manejar los usuarios y los juegos que hay.
